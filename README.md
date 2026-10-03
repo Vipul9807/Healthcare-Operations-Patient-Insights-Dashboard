@@ -32,8 +32,8 @@ The analysis focuses on the following questions:
 11. **What is the average length of stay across patients?**
 12. **How do key healthcare metrics change when filtered by admission date, gender, medication, or blood type?**
 
+<img width="1672" height="941" alt="Healthcare Operations Project Overview" src="https://github.com/user-attachments/assets/2f198948-c15f-4097-bb82-38e0fcb25e46" />
 
-<img width="2172" height="724" alt="Healthcare Operations Dashboard Panorama" src="https://github.com/user-attachments/assets/bbfb4d58-4bdc-4f5e-9b8c-e98eeff78117" />
 
 ## Methodology
 
@@ -48,7 +48,9 @@ The analysis focuses on the following questions:
 ## Skills Used:
 
 **Microsoft Excel:** Data cleaning, data validation, data standardization, duplicate checking, PivotTables, PivotCharts, Slicers & Filters, KPI development, dashboard development, data visualization, conditional formatting, dashboard formatting.
+
 **Data Analysis:** Exploratory data analysis (EDA), patient volume analysis, admission trend analysis, billing analysis, comparative analysis, hospital performance analysis, insurance provider analysis, medical condition analysis, pattern identification, insight generation.
+
 **Healthcare & Business Analytics:** Healthcare operations analytics, patient analytics, hospital performance analysis, insurance analytics, billing analysis, operational KPI analysis, trend analysis, data-driven decision support, business reporting.
 
 ## Results Obtained
