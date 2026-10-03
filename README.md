@@ -2,19 +2,22 @@
 
 ## Summary:
 
-An interactive **Excel-based Healthcare Operations & Patient Insights Dashboard** designed to transform raw hospital data into 
-meaningful business insights. The project analyzes patient admissions, billing, insurance providers, medical conditions, hospital 
-performance, admission trends, patient volumes, and length of stay through interactive KPIs, charts, and slicers, enabling users 
-to explore operational and financial patterns and support data-driven decision-making.
+ An interactive **Excel-based Healthcare Operations & Patient Insights Dashboard** designed to transform raw hospital data into 
+ meaningful business insights. The project analyzes patient admissions, billing, insurance providers, medical conditions, hospital 
+ performance, admission trends, patient volumes, and length of stay through interactive KPIs, charts, and slicers, enabling users 
+ to explore operational and financial patterns and support data-driven decision-making.
 
 ## Business Problem:
 
-Healthcare organizations need a consolidated view of **patient activity, hospital admissions, billing, insurance performance, and medical conditions** to 
-understand operational and financial patterns. Raw patient-level data makes it difficult to quickly identify admission trends, high-volume hospitals, 
-major billing contributors, and differences across insurance providers and medical conditions. This dashboard addresses the need for 
-an **interactive, centralized view of key healthcare metrics** to support operational monitoring, performance analysis, and data-driven decision-making.
+ Healthcare organizations need a consolidated view of **patient activity, hospital admissions, billing, insurance performance, 
+ and medical conditions** to understand operational and financial patterns. Raw patient-level data makes it difficult to 
+ quickly identify admission trends, high-volume hospitals, major billing contributors, and differences across insurance 
+ providers and medical conditions. This dashboard addresses the need for an **interactive, centralized view of key 
+ healthcare metrics** to support operational monitoring, performance analysis, and data-driven decision-making.
 
-## Business Questions Answered
+## Business Questions Answered:
+
+The analysis focuses on the following questions:
 
 1. **What is the total billing amount and average billing amount across all patients?**
 2. **How does the number of patient admissions vary over time?**
@@ -28,6 +31,7 @@ an **interactive, centralized view of key healthcare metrics** to support operat
 10. **How does patient volume vary across different demographic segments?**
 11. **What is the average length of stay across patients?**
 12. **How do key healthcare metrics change when filtered by admission date, gender, medication, or blood type?**
+
 
 <img width="2172" height="724" alt="Healthcare Operations Dashboard Panorama" src="https://github.com/user-attachments/assets/bbfb4d58-4bdc-4f5e-9b8c-e98eeff78117" />
 
