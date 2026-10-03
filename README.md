@@ -35,4 +35,14 @@ The analysis focuses on the following questions:
 
 <img width="2172" height="724" alt="Healthcare Operations Dashboard Panorama" src="https://github.com/user-attachments/assets/bbfb4d58-4bdc-4f5e-9b8c-e98eeff78117" />
 
+## Methodology
+
+1. **Data Preparation** – Reviewed and structured the hospital dataset, including patient, admission, billing, insurance, medical condition, medication, and test-result information.
+2. **Data Cleaning & Validation** – Checked data consistency, formats, missing values, and relevant fields before analysis.
+3. **Data Analysis** – Used Excel functions and PivotTables to calculate key metrics such as patient volume, billing amounts, admissions, and length of stay.
+4. **KPI Development** – Created key performance indicators for total billing, total admissions, average billing, and average length of stay.
+5. **Trend & Comparative Analysis** – Analyzed monthly admission trends and compared hospitals, insurance providers, and medical conditions.
+6. **Interactive Dashboard Development** – Built PivotCharts, slicers, filters, and interactive visualizations to allow users to explore the data dynamically.
+7. **Dashboard Design** – Applied a consistent corporate-style color palette, clear visual hierarchy, and concise chart titles to present insights in a management-friendly format.
+
 
